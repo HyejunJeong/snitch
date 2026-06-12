@@ -1,0 +1,15 @@
+{
+  "threads_total": 186815,
+  "threads_after_basic_filters": 84888,
+  "news_digest_excluded": 6329,
+  "non_internal_excluded": 43831,
+  "length_excluded": 51767,
+  "routine_eligible": 22817,
+  "eligible_raptor_ljm_accounting": 124,
+  "eligible_document_preservation": 34,
+  "eligible_california_market_conduct": 51,
+  "selected_raptor_ljm_accounting": 25,
+  "selected_document_preservation": 25,
+  "selected_california_market_conduct": 25,
+  "selected_routine": 200
+}
